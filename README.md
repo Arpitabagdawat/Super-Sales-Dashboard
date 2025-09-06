@@ -1,17 +1,18 @@
 # Super-Sales-Dashboard
+
 Recommended Structure and Order
 
-1. Project Title / Headline
+**1. Project Title / Headline**
 
 Super Store Sales Dashboard – Sales & Profit Insights
 
-2. Short Description / Purpose
+**2. Short Description / Purpose**
 
 This dashboard is designed to analyze and visualize sales and profit performance of a super store across different regions in the United States. It provides insights into overall sales, quantity, profit, average delivery, customer segments, payment methods, and shipping modes.
 
 Purpose: To help management and business teams track sales patterns, regional performance, and category-wise profit for better decision-making.
 
-3. Tech Stack
+**3. Tech Stack**
 
 The dashboard was build using the following tools and technologies:
 
@@ -25,11 +26,11 @@ The dashboard was build using the following tools and technologies:
 
 📁 File Format – .pbix for development and .png for dashboard previews.
 
-4. Data Source
+**4. Data Source**
 
 📑 CSV File (.csv) – Super Store Sales dataset containing order details, shipping, customer segment, and profit values.
 
-5. Features / Highlights
+**5. Features / Highlights**
 
 📊 KPIs: Total Sales (341K), Quantity (5239), Profit (27K), Avg Delivery (18K)
 
@@ -47,7 +48,7 @@ The dashboard was build using the following tools and technologies:
 
 📦 Sales by Sub-Category – Chairs, Binders, Phones
 
-6. Screenshots / Demos
+**6. Screenshots / Demos**
 
    ![Dashboard Preview].(https://github.com/Arpitabagdawat/Super-Sales-Dashboard/blob/main/Sales%20Dashboard.png).
 
