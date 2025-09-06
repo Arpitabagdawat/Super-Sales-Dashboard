@@ -49,7 +49,7 @@ The dashboard was build using the following tools and technologies:
 
 6. Screenshots / Demos
 
-   ![Dashboard Preview].(https://github.com/Arpitabagdawat/HR-Analysis-Project/blob/main/HR%20analysis.png).
+   ![Dashboard Preview].(https://github.com/Arpitabagdawat/Super-Sales-Dashboard/blob/main/Sales%20Dashboard.png).
 
 
 
